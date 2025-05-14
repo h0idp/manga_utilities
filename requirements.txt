@@ -1,0 +1,5 @@
+Pillow 
+ttkthemes 
+super-image 
+torch
+huggingface_hub==0.4.0
